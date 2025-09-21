@@ -64,7 +64,6 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
 
-    implementation(libs.lottie.compose.v660)
     implementation(libs.navigation.compose)
     implementation(libs.androidx.material3.icons)
     implementation(libs.lottie.compose)

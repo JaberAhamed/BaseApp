@@ -9,7 +9,6 @@ lifecycleRuntimeKtx = "2.9.2"
 activityCompose = "1.10.1"
 composeBom = "2025.07.00"
 
-lottieComposeVersion = "6.6.7"
 navigationCompose = "2.9.2"
 materialIconExtended = "1.7.8"
 lottieCompose = "6.6.7"
@@ -53,7 +52,6 @@ coil-network = { group = "io.coil-kt.coil3", name = "coil-network-okhttp", versi
 
 jetbrains-serialization = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-core", version.ref = "kotlinxSerializationCore" }
 jetbrains-serialization-json = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "kotlinxSerializationCore" }
-lottie-compose-v660 = { module = "com.airbnb.android:lottie-compose", version.ref = "lottieComposeVersion" }
 navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
 androidx-material3-icons = { group = "androidx.compose.material", name = "material-icons-extended", version.ref = "materialIconExtended" }
 lottie-compose = { group = "com.airbnb.android", name = "lottie-compose", version.ref = "lottieCompose" }
