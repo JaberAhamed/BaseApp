@@ -27,10 +27,10 @@ Run the script directly from GitHub:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/JaberAhamed/BaseApp/refs/heads/main/createNewProject.sh)
+```
 
 ## License
 
-```
 Copyright 2021 JABER BIN AHAMED
 
 Licensed under the Apache License, Version 2.0 (the "License");
