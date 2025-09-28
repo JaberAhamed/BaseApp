@@ -26,7 +26,7 @@ This tool automates those steps:
 Run the script directly from GitHub:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/JaberAhamed/android-project-generator/main/projecreace.sh)
+bash <(curl -s https://raw.githubusercontent.com/JaberAhamed/BaseApp/refs/heads/main/createNewProject.sh)
 
 ## License
 
