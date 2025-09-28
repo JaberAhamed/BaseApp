@@ -1,4 +1,4 @@
-package com.sj.baseapp
+package gi
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
